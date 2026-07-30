@@ -14,3 +14,4 @@ int main() {
     std::cout << "p50=" << logger.percentile(0.50) << '\n';
     std::cout << "p99=" << logger.percentile(0.99) << '\n';
     return 0;
+}
