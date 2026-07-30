@@ -249,10 +249,17 @@ Every week includes: *what I built, what failed, design decisions, benchmarks, n
 
 ---
 
-## 🧬 Tech Stack
-
-`C++20` `Linux` `CMake` `Google Test` `Google Benchmark` `perf` `Flamegraph` `Prometheus` `io_uring` `Thread Affinity`
-
+## Tech Stack
+languages / platform
+<p> <img src="https://skillicons.dev/icons?i=cpp,linux&theme=dark" /> </p>
+build system
+<p> <img src="https://skillicons.dev/icons?i=cmake&theme=dark" /> </p>
+testing / benchmarking
+<p> <img src="https://img.shields.io/badge/Google_Test-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Benchmark-4285F4?style=flat-square&logo=google&logoColor=white" /> </p>
+profiling / observability
+<p> <img src="https://img.shields.io/badge/perf-000000?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Flamegraph-FF4500?style=flat-square&logo=fire&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> </p>
+systems / i/o
+<p> <img src="https://img.shields.io/badge/io__uring-000000?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Thread_Affinity-000000?style=flat-square&logo=linux&logoColor=white" /> </p>
 ---
 
 ## 📈 Repository Stats
